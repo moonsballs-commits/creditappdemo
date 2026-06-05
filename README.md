@@ -49,6 +49,7 @@ Contoh request JSON ke backend (mode `uat`, skema **`kreditku`** / camelCase —
 {
   "applicant": {
     "fullName": "Budi Santoso",
+    "email": "Budi@gmail.com",
     "phone": "08123456789"
   },
   "financial": {
